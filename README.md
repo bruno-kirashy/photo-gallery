@@ -14,7 +14,7 @@ Este projeto é uma galeria de fotos moderna e interativa, desenvolvida para dem
 ## 📸 Visualização
 
 ![Prévia do Projeto](./public/Gif/2025-09-13%2010-49-56.gif)
-#### ☁️[ Clique aqui para acessar o site na nuvem!](photo-gallery.vercel.app)
+#### ☁️[ Clique aqui para acessar o site na nuvem!](https://photo-gallery-ecru-six.vercel.app)
 ---
 
 ## ✨ Funcionalidades
