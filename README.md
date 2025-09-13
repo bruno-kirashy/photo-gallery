@@ -14,7 +14,7 @@ Este projeto é uma galeria de fotos moderna e interativa, desenvolvida para dem
 ## 📸 Visualização
 
 ![Prévia do Projeto](./public/Gif/2025-09-13%2010-49-56.gif)
-
+#### [Clique aqui para acessar o site na nuvem!](photo-gallery.vercel.app)
 ---
 
 ## ✨ Funcionalidades
@@ -46,18 +46,13 @@ Siga os passos abaixo para rodar o projeto em seu ambiente local.
 
 ```bash
 # 1. Clone o repositório
-git clone 
+git clone git@github.com:bruno-kirashy/photo-gallery.git
 
 # 2. Acesse a pasta do projeto
 cd photo-gallery
 
 # 3. Instale as dependências
-# Escolha o gerenciador de pacotes de sua preferência
 npm install
-# ou
-yarn install
-# ou
-pnpm install
 
 # 4. Inicie o servidor de desenvolvimento
 npm run dev
